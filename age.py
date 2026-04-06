@@ -1,6 +1,7 @@
 # short program that calculates the age between the current date and given date
 # when given a date
 # e.g. 01-01-1990 returns 31, 04-12-1972 returns 48
+# needs to be useable from iTerm so needs to be able to add input from terminal?
 
 from datetime import datetime as dt
 

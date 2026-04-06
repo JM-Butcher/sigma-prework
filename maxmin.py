@@ -1,7 +1,7 @@
 # given a list of integers, return the highest and lowers n in array
 # don't use max() or min()
 # e.g. [2, 4, 1, 0, 2, -1] returns [-1, 4]
-
+# needs to be useable from iTerm so needs to be able to add input from terminal?
 
 def get_min_and_max() -> list:
     numbers = []
